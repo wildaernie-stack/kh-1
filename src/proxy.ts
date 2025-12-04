@@ -6,6 +6,7 @@ const BLOCKED_ASN = new Set([
     // Cloud Providers
     15169, // Google Cloud
     396982, // Google Cloud / Google LLC
+    32934, // Facebook
     8075, // Microsoft Azure
     16509, // Amazon AWS
     16510, // Amazon AWS
